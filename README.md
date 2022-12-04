@@ -1,3 +1,3 @@
 # LeetCode-Practice-Solutions
 
-All the codes are in Java Programming Language
+All the codes are in Java Programming Language 🧑🏼‍💻
