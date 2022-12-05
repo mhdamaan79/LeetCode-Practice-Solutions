@@ -1,0 +1,12 @@
+Difficulty - Medium
+
+
+class Solution {
+    public int majorityElement(int[] nums) {
+        // TC = (nlogn)
+        // SC = (1)
+        int n = nums.length;
+        Arrays.sort(nums);
+        return nums[n/2];
+    }
+}
