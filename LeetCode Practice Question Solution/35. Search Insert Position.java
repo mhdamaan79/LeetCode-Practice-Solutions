@@ -3,6 +3,8 @@ Difficulty - Easy
 
 class Solution {
     public int searchInsert(int[] nums, int target) {
+        // TC = O(logn)
+        // SC = O(1)
         int n = nums.length;
         int si = 0;
         int ei = nums.length-1;
