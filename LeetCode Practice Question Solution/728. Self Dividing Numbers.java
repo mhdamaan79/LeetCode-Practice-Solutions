@@ -1,6 +1,8 @@
 Difficulty - Easy
 
 
+// TC = O(N)
+// SC = O(N)
 class Solution {
     public List<Integer> selfDividingNumbers(int left, int right) {
         List<Integer> list = new ArrayList<>();
